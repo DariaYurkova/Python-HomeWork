@@ -1,3 +1,3 @@
-a = 'demo@example.com'
-at = a.find('@')
-print(a[:at])
+num = input("Введите двухзначное число: ")
+num_last = int(num) % 10 # Получим остаток, если 2-х значное число разделим на 10
+num_
